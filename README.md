@@ -1,2 +1,2 @@
 # new-repo
-repo demo for git command demonstration
+repo demo for git command demonstration.
